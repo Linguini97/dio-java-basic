@@ -24,3 +24,5 @@ hs_err_pid*
 java-anatomia-classes/.vscode/settings.json
 .gitignore
 tipos-variaveis/.vscode/settings.json
+metodos-java/.vscode/settings.json
+operadores-java/.vscode/settings.json
