@@ -37,7 +37,7 @@ São utilizadas para realizar operações de um valor k ao valor da variável, p
 
 Faça um programa que leia conjuntos de dois valores, o primeiro representando o nome do aluno e o segundo representando a sua idade. Ele só deve parar quando for inserido o valor 0 no campo nome.
 
-### Exercício 2 : Nota
+### Exercício 2 : [Nota](C:\Aulas-Java-Basic\dio-java-basic\estruturas-de-repeticao-java\src\Nota.java)
 
 Faça um programa que peça uma nota, entre 0 a 10. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
 
